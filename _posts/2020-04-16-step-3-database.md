@@ -7,7 +7,8 @@ description: "How to change hostname on CentOS 7"
 type: Document
 ---
 
-##
+## Prerequisites
 
+## Step 1 - 
 
-####
+## Conclusion
