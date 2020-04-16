@@ -11,7 +11,7 @@ type: Document
 
 ## Step 1 - Add Nginx repository
 
-Let's start with adding the Nginx repository. Creata the following file `/etc/`
+Let's start with adding the Nginx repository. Creata the following file `/etc/yum.repos.d/nginx.repo`
 
 ~~~ bash
 [nginx]
